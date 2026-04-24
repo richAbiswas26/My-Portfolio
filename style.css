@@ -195,7 +195,7 @@
             border-radius: 9999px;
         }
         #profile-image-container{
-            background-image: url("RichaBiswas.jpg");
+            background-image: url("assets/profileImage3.png");
             background-repeat: no-repeat;       /* Prevents tiling */
             background-size: cover; 
         }
